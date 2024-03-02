@@ -149,6 +149,10 @@
   font-size: 20px;
   font-weight: bold;
   animation: slide-in ease 0.3s;
+  color: transparent;
+  background-image: linear-gradient(to right, #1772e1 0%, #ff758c 40%, #ff7eb3 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .sidebar-sub-title {
