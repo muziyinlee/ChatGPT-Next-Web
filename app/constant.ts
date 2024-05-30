@@ -2,7 +2,7 @@
 export const WEB_TITLE = "Chat+"; // 页面标题
 export const SUBTITLE = "让生产力加倍的ChatGPT"; // 页面副标题
 export const MYLINK = "https://www.aishort.top/"; // 副标题下面超链接
-export const CUSTOM_URL = "https://afdian.net/a/davidgy"; //设置按钮旁边的按钮自定义链接
+export const CUSTOM_URL = "https://muziyin.top/"; //设置按钮旁边的按钮自定义链接
 
 export const OWNER = "muziyinlee";
 export const REPO = "ChatGPT-Next-Web";
@@ -158,7 +158,7 @@ const openaiModels = [
   "gpt-4o",
   "gpt-4o-2024-05-13",
   "gpt-4-vision-preview",
-  "gpt-4-turbo-2024-04-09"
+  "gpt-4-turbo-2024-04-09",
 ];
 
 const googleModels = [
