@@ -2,7 +2,7 @@
 export const WEB_TITLE = "Chat+"; // 页面标题
 export const SUBTITLE = "让生产力加倍的ChatGPT"; // 页面副标题
 export const MYLINK = "https://www.aishort.top"; // 副标题下面超链接
-export const CUSTOM_URL = "https://muziyin.top"; //设置按钮旁边的按钮自定义链接
+export const CUSTOM_URL = "https://mkey.pages.dev"; //设置按钮旁边的按钮自定义链接
 
 export const OWNER = "muziyinlee";
 export const REPO = "ChatGPT-Next-Web";
